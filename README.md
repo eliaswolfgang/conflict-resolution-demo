@@ -2,4 +2,4 @@
 
 ## This is a subheading we added on GitHub
 
-Make some more content here for us locally.
+All of this content added to the readme file has been added from my remote GitHub repository.
