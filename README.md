@@ -1,5 +1,5 @@
 # conflict-resolution-demo
 
-## This ins a subheading we added in VSCode
+## This is a subheading we added on GitHub
 
-Some content...
+Some content from GitHub....
